@@ -1,0 +1,68 @@
+Network Tools
+sudo emerge net-tools wireshark-cli wireshark-qt traceroute whois tcpdump aircrack-ng macchanger
+
+Android Tools
+sudo emerge android-tools fastboot
+
+Video Game Emulators
+sudo emerge pcsx2 ppsspp zsnes dolphin-emu gens-gs mupen64plus snes9x mame scummvm
+
+Video Game Platforms
+sudo emerge steam-native steam-manjaro
+
+Wine
+sudo emerge wine wine-mono wine-gecko wine-staging
+
+Virtual Machines
+sudo emerge virtualbox
+
+Python
+sudo emerge python-beautifulsoup4 python2-setuptools
+
+Penetration Testing
+sudo emerge metasploit sqlmap
+
+Communications
+sudo emerge keybase telegram-desktop discord irssi weechat
+
+Media Players
+sudo emerge kodi vlc cmus
+
+Web Browsers
+sudo emerge chromium
+
+Web Camera
+sudo emerge cheese kamoso
+
+Text Editors
+sudo emerge mousepad
+
+GIT
+sudo emerge git
+
+Password Managers
+sudo emerge keepass
+
+Video Editing
+sudo emerge simplescreenrecorder openshot
+
+Image Editing
+sudo emerge gimp
+
+Audio Editing
+sudo emerge audacity
+
+Torrent Applications
+sudo emerge qbittorrent
+
+Office
+sudo emerge libreoffice
+
+FireFox Add-Ons
+AdBlocker
+NoScript
+HTTPS Everywhere
+Cookie Editor
+Ghostery
+DarkReading
+FireFox Dark Theme

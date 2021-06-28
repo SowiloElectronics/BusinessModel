@@ -1,0 +1,68 @@
+Network Tools
+sudo apt-get install net-tools wireshark-cli wireshark-qt traceroute whois tcpdump aircrack-ng macchanger
+
+Android Tools
+sudo apt-get install android-tools fastboot
+
+Video Game Emulators
+sudo apt-get install pcsx2 ppsspp zsnes dolphin-emu gens-gs mupen64plus snes9x mame scummvm
+
+Video Game Platforms
+sudo apt-get install steam-native steam-manjaro
+
+Wine
+sudo apt-get install wine wine-mono wine-gecko wine-staging
+
+Virtual Machines
+sudo apt-get install virtualbox
+
+Python
+sudo apt-get install python-beautifulsoup4 python2-setuptools
+
+Penetration Testing
+sudo apt-get install metasploit sqlmap
+
+Communications
+sudo apt-get install keybase telegram-desktop discord irssi weechat
+
+Media Players
+sudo apt-get install kodi vlc cmus
+
+Web Browsers
+sudo apt-get install chromium
+
+Web Camera
+sudo apt-get install cheese kamoso
+
+Text Editors
+sudo apt-get install mousepad
+
+GIT
+sudo apt-get install git
+
+Password Managers
+sudo apt-get install keepass
+
+Video Editing
+sudo apt-get install simplescreenrecorder openshot
+
+Image Editing
+sudo apt-get install gimp
+
+Audio Editing
+sudo apt-get install audacity
+
+Torrent Applications
+sudo apt-get install qbittorrent
+
+Office
+sudo apt-get install libreoffice
+
+FireFox Add-Ons
+AdBlocker
+NoScript
+HTTPS Everywhere
+Cookie Editor
+Ghostery
+DarkReading
+FireFox Dark Theme

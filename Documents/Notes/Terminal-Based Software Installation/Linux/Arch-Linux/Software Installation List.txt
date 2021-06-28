@@ -1,0 +1,78 @@
+Network Tools
+sudo pacman -S net-tools wireshark-cli wireshark-qt traceroute whois tcpdump aircrack-ng macchanger nmap openvpn dnscrypt-proxy i2pd tor
+
+Android Tools
+sudo pacman -S android-tools heimdall
+
+Video Game Emulators
+sudo pacman -S pcsx2 ppsspp zsnes dolphin-emu gens-gs mupen64plus snes9x mame scummvm
+
+Video Game Platforms
+sudo pacman -S steam-native steam-manjaro
+
+Wine
+sudo pacman -S wine wine-mono wine-gecko wine-staging
+
+Virtual Machines
+sudo pacman -S virtualbox
+
+Python
+sudo pacman -S python-beautifulsoup4 python2-setuptools python-setuptools
+
+Penetration Testing
+sudo pacman -S metasploit sqlmap
+
+Communications
+sudo pacman -S keybase telegram-desktop discord irssi weechat pidgin pidgin-otr
+
+Media Players
+sudo pacman -S kodi vlc cmus
+
+Web Browsers
+sudo pacman -S chromium
+
+Web Camera
+sudo pacman -S cheese kamoso
+
+Text Editors
+sudo pacman -S mousepad notepadqq
+
+GIT
+sudo pacman -S git
+
+Password Managers
+sudo pacman -S keepass
+
+Video Editing
+sudo pacman -S simplescreenrecorder openshot kdenlive
+
+Image Editing
+sudo pacman -S gimp krita digikam
+
+Audio Editing
+sudo pacman -S audacity
+
+Torrent Applications
+sudo pacman -S qbittorrent
+
+Office
+sudo pacman -S libreoffice
+
+OpenPGP Tools
+sudo pacman -S seahorse
+
+Encryption Tools
+veracrypt
+
+FireFox Add-Ons
+AdBlocker
+NoScript
+HTTPS Everywhere
+Cookie Editor
+Ghostery
+DarkReading
+FireFox Dark Theme
+
+All Software
+
+sudo pacman -S android-tools heimdall pcsx2 ppsspp zsnes dolphin-emu gens-gs mupen64plus snes9x mame scummvm steam-native steam-manjaro wine wine-mono wine-gecko wine-staging python-beautifulsoup4 python2-setuptools metasploit sqlmap keybase telegram-desktop discord irssi weechat pidgin pidgin-otr kodi vlc cmus
