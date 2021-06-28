@@ -1,0 +1,5 @@
+G.C.'s Sowilo Electronics
+
+In order to keep a clean and organized business record keeping system you will first create a 'Client Profile Name' within the 'Clients' directory. This directory should be named after the Client's name. Any services that are rendered to the client should be timestamped. Simply navigate to the Sales & Services Template directory, find the service rendered and copy the directory into the 'Client Profile Name' directory. Save all digital copies of purchases, invoices, contracts, receipts that are attributed to that specific client within the 'Client Profile Name' directory under a timestamp of each encounter.
+
+This makes for an ultra searchable, clean and organized system of digital record keeping. The entire company directory structure and all files will be backed up to different encrypted cloud storage mediums for record keeping as well as for lightning fast restoration if in the event anything is deleted or missing.
