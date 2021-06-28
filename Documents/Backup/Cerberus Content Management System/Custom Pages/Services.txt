@@ -1,0 +1,145 @@
+// Cerberus Safe-HTML Code
+
+[b]Services We Offer[/b][br][br]
+
+* [b]Arcade Machine Services[/b][br]
+· Arcade Machine Cleaning & Refurbishment[br]
+· Arcade Machine Repair[br]
+· Custom Built Top-Of-The-Line 'Mega'cades and 'Mini'cades[br]
+ ( ~100,000 Games - Every Video Game From Every Video Game Console From Pong ( 1972 ) to Sony Playstation 2 ( 2014 ) )[br][br]
+
+* [b]Computer Programming / Scripting Services[/b][br]
+· Custom Written Web Applications[br][br]
+
+* [b]Data Services[/b][br]
+ ( Secure Data Destruction, Data Recovery, Data Backup )[br][br]
+
+* [b]Digital Graphics Services[/b][br]
+· Custom Digital Graphics[br][br]
+
+* [b]Information Security Services[/b][br]
+· Ethical Penetration Testing[br]
+· Security Auditing[br]
+· Security Hardening[br][br]
+
+* [b]Mobile Device Services[/b][br]
+· Mobile Device Cleaning & Refurbishment[br]
+· Mobile Device Hardware and Software Diagnostics[br]
+· Mobile Device Repair[br]
+· Custom Mobile Device Modifications[br]
+ ( 18 - 24 Karat Gold iPhones / Linux Privacy Phones / Security Hardened Firmware / Security Hardened Mobile Operating Systems )[br]
+· Custom Built & Security Hardened Work Phones[br]
+ ( Extreme Physical and Digital Security )[br]
+· Custom Built Travel Phones[br]
+ ( Extreme Physical and Digital Security )[br][br]
+
+* [b]Networking Services[/b][br]
+· Network Diagnostics[br]
+· Network Installation[br]
+· Network Repair[br][br]
+
+* [b]Personal Computer Services[/b][br]
+· Hardware Device Firmware Services[br]
+ ( Custom and OEM Firmware Flashing )[br]
+· Personal Computer Cleaning & Refurbishment[br]
+· Personal Computer Diagnostics[br]
+· Personal Computer Hardware Overclocking[br]
+· Personal Computer Service and Repair[br]
+ ( Servers, Laptops / Notebooks / Apple )[br]
+· Personal Computer Hardware Modifications[br]
+· Custom Built Personal Computers[br]
+ ( Custom Built Gaming PCs, Custom Built Web Servers / VoIP Servers )[br][br]
+
+* [b]Software Services[/b][br]
+· Operating System Installations[br]
+ ( Microsoft Windows, Linux, GNU, BSD, Solaris, MacOS )[br]
+· Software Controlled Overclocking[br]
+· Software Suite Installations [br][br]
+
+* [b]Security Camera Services[/b][br]
+· Security Camera Systems Installation[br]
+· Security Camera Systems Diagnostics[br]
+· Security Camera Systems Repair[br][br]
+
+* [b]Web Services[/b][br]
+· Custom Digital Graphics[br]
+· Custom Web Site Design[br]
+· Social Media Creation & Management[br][br]
+
+* [b]Video Game Console Services[/b][br]
+· Video Game Console Cleaning & Refurbishment[br]
+· Video Game Console Repair[br]
+· Video Game Console Hardware and Software Modifications[br][br]
+
+// HTML
+
+<B>Services We Offer</B><BR><BR>
+
+*&nbsp;<B>Arcade Machine Services</B><BR>
+&middot;&nbsp;Arcade Machine Cleaning & Refurbishment<BR>
+&middot;&nbsp;Arcade Machine Repair<BR>
+&middot;&nbsp;Custom Built Top-Of-The-Line 'Mega'cades and 'Mini'cades<BR>
+&nbsp;( ~100,000 Games - Every Video Game From Every Video Game Console From Pong ( 1972 ) to Sony Playstation 2 ( 2014 ) )<BR><BR>
+
+*&nbsp;<B>Computer Programming / Scripting Services</B><BR>
+&middot;&nbsp;Custom Written Web Applications<BR><BR>
+
+*&nbsp;<B>Data Services</B><BR>
+&nbsp;( Secure Data Destruction, Data Recovery, Data Backup )<BR><BR>
+
+*&nbsp;<B>Digital Graphics Services</B><BR>
+&middot;&nbsp;Custom Digital Graphics<BR><BR>
+
+*&nbsp;<B>Information Security Services</B><BR>
+&middot;&nbsp;Ethical Penetration Testing<BR>
+&middot;&nbsp;Security Auditing<BR>
+&middot;&nbsp;Security Hardening<BR><BR>
+
+*&nbsp;<B>Mobile Device Services</B><BR>
+&middot;&nbsp;Mobile Device Cleaning & Refurbishment<BR>
+&middot;&nbsp;Mobile Device Hardware and Software Diagnostics<BR>
+&middot;&nbsp;Mobile Device Repair<BR>
+&middot;&nbsp;Custom Mobile Device Modifications<BR>
+&nbsp;( 18 - 24 Karat Gold iPhones / Linux Privacy Phones / Security Hardened Firmware / Security Hardened Mobile Operating Systems )<BR>
+&middot;&nbsp;Custom Built & Security Hardened Work Phones<BR>
+&nbsp;( Extreme Physical and Digital Security )<BR>
+&middot;&nbsp;Custom Built Travel Phones<BR>
+&nbsp;( Extreme Physical and Digital Security )<BR><BR>
+
+*&nbsp;<B>Networking Services</B><BR>
+&middot;&nbsp;Network Diagnostics<BR>
+&middot;&nbsp;Network Installation<BR>
+&middot;&nbsp;Network Repair<BR><BR>
+
+*&nbsp;<B>Personal Computer Services</B><BR>
+&middot;&nbsp;Hardware Device Firmware Services<BR>
+&nbsp;( Custom and OEM Firmware Flashing )<BR>
+&middot;&nbsp;Personal Computer Cleaning & Refurbishment<BR>
+&middot;&nbsp;Personal Computer Diagnostics<BR>
+&middot;&nbsp;Personal Computer Hardware Overclocking<BR>
+&middot;&nbsp;Personal Computer Service and Repair<BR>
+&nbsp;( Servers, Laptops / Notebooks / Apple )<BR>
+&middot;&nbsp;Personal Computer Hardware Modifications<BR>
+&middot;&nbsp;Custom Built Personal Computers<BR>
+&nbsp;( Custom Built Gaming PCs, Custom Built Web Servers / VoIP Servers )<BR><BR>
+
+*&nbsp;<B>Software Services</B><BR>
+&middot;&nbsp;Operating System Installations<BR>
+&nbsp;( Microsoft Windows, Linux, GNU, BSD, Solaris, MacOS )<BR>
+&middot;&nbsp;Software Controlled Overclocking<BR>
+&middot;&nbsp;Software Suite Installations <BR><BR>
+
+*&nbsp;<B>Security Camera Services</B><BR>
+&middot;&nbsp;Security Camera Systems Installation<BR>
+&middot;&nbsp;Security Camera Systems Diagnostics<BR>
+&middot;&nbsp;Security Camera Systems Repair<BR><BR>
+
+*&nbsp;<B>Web Services</B><BR>
+&middot;&nbsp;Custom Digital Graphics<BR>
+&middot;&nbsp;Custom Web Site Design<BR>
+&middot;&nbsp;Social Media Creation & Management<BR><BR>
+
+*&nbsp;<B>Video Game Console Services</B><BR>
+&middot;&nbsp;Video Game Console Cleaning & Refurbishment<BR>
+&middot;&nbsp;Video Game Console Repair<BR>
+&middot;&nbsp;Video Game Console Hardware and Software Modifications<BR><BR>
