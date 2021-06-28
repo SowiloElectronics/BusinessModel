@@ -62,7 +62,7 @@ OpenPGP Tools
 sudo pacman -S seahorse
 
 Encryption Tools
-veracrypt
+sudo pacman -S veracrypt
 
 FireFox Add-Ons
 AdBlocker
