@@ -8,7 +8,7 @@
 // Custom Hardened Travel Phones
 // Custom Hardened Work Phones
 
-Hardware / Operating System Specifications ( Upgraded )
+Hardware / Software / Operating System Specifications ( Upgraded )
 
 Memory / RAM            4 GB Samsung SoC LPDDR3 @ 1600 MHz
 Operating System        Lineage OS 18.1 // AOSP 11 // Security Hardened Linux Kernel, Security Hardened OpenSSL
@@ -16,9 +16,9 @@ SIM                     Internationally Unlocked
 Firmware                Custom Encrypted Bootloader, Custom Modem Chip Firmware, Custom WLAN Firmware
 Battery                 6400 Milliampere Hour Lithium-Ion LM Extended Battery
 MicroSDXC               128 GB SanDisk Extreme
-Case                    Waterproofed, Fireproofed, Shockproofed Aluminium Metal Case, Gorilla Glass Version 3, Upgraded T Screws, Gasket Sealed.
+Case                    Waterproofed, Fireproofed, Shockproofed Aluminium Metal Case, Gorilla Glass Version 3, Upgraded T Screws, Gasket Sealed
 
-Hardware / Operating System Specifications ( Stock )
+Hardware / Software / Operating System Specifications ( Stock )
 
 Network Technology 	    GSM / HSPA / LTE
 Body Dimensions 	       142 x 72.5 x 8.1 mm (5.59 x 2.85 x 0.32 in)
