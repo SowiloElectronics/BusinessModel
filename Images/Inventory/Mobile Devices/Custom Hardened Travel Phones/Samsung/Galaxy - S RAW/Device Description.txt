@@ -16,6 +16,8 @@ Crypto                  Full Device Encryption Using Customized Cryptographic Al
 SIM                     Internationally Unlocked
 Firmware                Custom Encrypted Bootloader, Custom Modem Chip Firmware, Custom WLAN Chip Firmware, Custom eMMC Chip Firmware, Custom Encrypted Recovery Firmware
 Battery                 6400 Milliampere Hour Lithium-Ion LM Extended Battery
+Battery Life            6400 MaH @ Performance, 24 Hours Continuous Use. 6400 MaH @ Balanced, 48 Hours Continuous Use. 6400 MaH @ Low Power, 96 Hours Continuous Use.
+                        6400 MaH @ Standby ( No CPU / Modem Usage ), 30 Days.
 MicroSDXC               128 GB SanDisk Extreme
 Case                    100% Waterproofed To 100 Meters, Fireproofed, Shockproofed Aluminium Metal Case, Gorilla Glass Version 3, Upgraded T Screws, Gasket Sealed
 Housing                 Reworked Aluminium Shaved
