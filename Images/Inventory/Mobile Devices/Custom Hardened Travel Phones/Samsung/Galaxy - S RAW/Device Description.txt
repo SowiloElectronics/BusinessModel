@@ -11,7 +11,7 @@
 Hardware / Software / Operating System Specifications ( Upgraded )
 
 Memory / RAM            4 GB Samsung SoC LPDDR3 @ 1600 MHz
-Operating System        Lineage OS 18.1 // AOSP 11 // Security Hardened Linux Kernel, Security Hardened OpenSSL
+Operating System        Lineage OS 18.1 // AOSP 11 // Security Hardened Linux Kernel, Security Hardened OpenSSL, Security Hardened Operating System Configurations
 SIM                     Internationally Unlocked
 Firmware                Custom Encrypted Bootloader, Custom Modem Chip Firmware, Custom WLAN Firmware
 Battery                 6400 Milliampere Hour Lithium-Ion LM Extended Battery
