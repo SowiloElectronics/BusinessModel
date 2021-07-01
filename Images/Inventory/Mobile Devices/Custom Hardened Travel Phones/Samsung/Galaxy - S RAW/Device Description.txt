@@ -10,7 +10,7 @@
 
 Hardware / Software / Operating System Specifications ( Upgraded )
 
-Memory / RAM            4 GB Samsung SoC LPDDR3 @ 1600 MHz
+Memory / RAM            4 GB Samsung SoC LPDDR3 @ 1600 MHz Reballed Onto SoC
 Operating System        Lineage OS 18.1 // AOSP 11 // Security Hardened Linux Kernel, Security Hardened OpenSSL, Security Hardened Operating System Configurations
 Crypto                  Full Device Encryption Using Customized Cryptographic Algorithms
 SIM                     Internationally Unlocked
