@@ -18,6 +18,7 @@ Firmware                Custom Encrypted Bootloader, Custom Modem Chip Firmware,
 Battery                 6400 Milliampere Hour Lithium-Ion LM Extended Battery
 MicroSDXC               128 GB SanDisk Extreme
 Case                    100% Waterproofed To 100 Meters, Fireproofed, Shockproofed Aluminium Metal Case, Gorilla Glass Version 3, Upgraded T Screws, Gasket Sealed
+Housing                 Reworked Aluminium Shaved
 
 Hardware / Software / Operating System Specifications ( Stock )
 
