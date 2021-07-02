@@ -1,0 +1,199 @@
+   ____           _ __       ______        __                _
+  / __/__ _    __(_) /__    / __/ /__ ____/ /________  ___  (_)______
+ _\ \/ _ \ |/|/ / / / _ \  / _// / -_) __/ __/ __/ _ \/ _ \/ / __(_-<
+/___/\___/__,__/_/_/\___/ /___/_/\__/\__/\__/_/  \___/_//_/_/\__/___/
+ᛊ ᛋ
+
+  ___ _            ___
+ | _ ) |_  _ ___  |   \ _ _ ___ __ _ _ __
+ | _ \ | || / -_) | |) | '_/ -_) _` | '  \
+ |___/_|\_,_\___| |___/|_| \___\__,_|_|_|_|
+                            $500 United States Dollars // Equivalent ~Euros
+
+  _  _             _
+ | || |__ _ _ _ __| |_ __ ____ _ _ _ ___
+ | __ / _` | '_/ _` \ V  V / _` | '_/ -_)
+ |_||_\__,_|_| \__,_|\_/\_/\__,_|_| \___|
+
+
+Microsoft XBOX - Original - Hardware and Hardware Modifications List
+
+Original Microsoft XBOX
+https://www.ebay.com/itm/124732807487?hash=item1d0aa7993f:g:ksAAAOSwBrFgpZdQ
+
+Hard Disk Drive(s)
+HDS721010KLA330
+https://www.amazon.com/Hitachi-HDS721010KLA330-7200rpm-Internal-3-5-Inch/dp/B000PDK53E
+OR
+Western Digital 1.0 Terabyte
+
+Ribbon Cable / PATA Cable
+266MHz PATA Cable
+
+Optical Disc Drive
+
+Heatsink
+
+Heatsink Fan
+
+Case Fan
+
+Mainboard Memory Chips
+K4D263238F-QC50
+https://www.aliexpress.com/item/1259711912.html
+
+Power Supply Unit
+
+Housing / Case / Chassis
+https://www.amazon.com/Xbox-Original-GhostCase-Kit-Crystal-Clear/dp/B007QUD5EA/ref=sr_1_1?dchild=1&keywords=original+xbox+ghost+case&qid=1621705311&s=videogames&sr=1-1
+https://www.amazon.com/Xbox-Original-GhostCase-LED-Kit-Blue/dp/B007QUG3P8/ref=sr_1_3?dchild=1&keywords=original+xbox+ghost+case&qid=1621705311&s=videogames&sr=1-3
+
+Wireless Local-Area-Network Module
+https://www.amazon.com/Microsoft-R86-00001-Wireless-G-Xbox-Adapter/dp/B0000C5FMJ/ref=as_li_ss_tl?keywords=xbox+mn-740&qid=1564943346&s=gateway&sr=8-10&linkCode=sl1&tag=icestrike256-20&linkId=833280f74dcb5dcd6fb5c02dc72ca2f2&language=en_US
+
+    _                            _
+   /_\  __ __ ___ ______ ___ _ _(_)___ ___
+  / _ \/ _/ _/ -_|_-<_-</ _ \ '_| / -_|_-<
+ /_/ \_\__\__\___/__/__/\___/_| |_\___/__/
+
+
+HD Component Cable
+
+HD Video Converter Box
+https://www.amazon.com/Original-Converter-Cable-Support-Compatible/dp/B07V73764F/ref=sr_1_3?dchild=1&keywords=original+xbox+720p+cable&qid=1621705369&s=videogames&sr=1-3
+
+Original XBOX Wireless Controller
+https://www.amazon.com/Xbox-Cordless-Precision-Controller/dp/B0002KO9CS/ref=sr_1_18?dchild=1&keywords=original+xbox+wireless+controller&qid=1621708423&s=videogames&sr=1-18
+
+Original XBOX Port to USB Adapter ( For Keyboard and Mouse )
+https://www.amazon.com/Cotchear-USB-Adapter-Cable-Xbox-Black/dp/B07FCFGG8Y/ref=sr_1_3?dchild=1&keywords=xbox+to+usb+adapter&qid=1621709411&sr=8-3
+
+Wireless Keyboard & Mouse
+https://www.amazon.com/Microsoft-Wireless-Desktop-850-PY9-00001/dp/B014N53JVO/ref=sr_1_3?dchild=1&keywords=Microsoft+wireless+keyboard+and+mouse+combo&qid=1621724806&sr=8-3
+
+  ___           _     ___          _    _                      _
+ | _ ) ___  ___| |_  |   \ __ _ __| |_ | |__  ___  __ _ _ _ __| |
+ | _ \/ _ \/ _ \  _| | |) / _` (_-< ' \| '_ \/ _ \/ _` | '_/ _` |
+ |___/\___/\___/\__| |___/\__,_/__/_||_|_.__/\___/\__,_|_| \__,_|
+
+
+Dashboard / Boot Operating System
+Sowilo Dashboard
+
+Dashboard / Boot Operating System
+XBMC4XBOX
+https://www.xbmc4xbox.org.uk/download/
+
+XBMC4XBOX Add-Ons
+https://www.xbmc4xbox.org.uk/addons/
+
+XBMC4XBOX Python Plug-Ins
+https://www.xbmc4xbox.org.uk/forum/viewforum.php?f=17&sid=292cea2298e96af78c53defe49c455db
+
+XBMC4XBOX Skins
+https://www.xbmc4xbox.org.uk/forum/viewforum.php?f=15&sid=292cea2298e96af78c53defe49c455db
+
+   ___                     _   _             ___         _
+  / _ \ _ __  ___ _ _ __ _| |_(_)_ _  __ _  / __|_  _ __| |_ ___ _ __  ___
+ | (_) | '_ \/ -_) '_/ _` |  _| | ' \/ _` | \__ \ || (_-<  _/ -_) '  \(_-<
+  \___/| .__/\___|_| \__,_|\__|_|_||_\__, | |___/\_, /__/\__\___|_|_|_/__/
+       |_|                           |___/       |__/
+
+GentooX
+http://wikigentoo.ksiezyc.pl/HOWTO_Gentoo_for_Xbox.htm
+
+Gentoo-Linux XBOX
+
+X-DSL / Damn Small Linux
+https://sourceforge.net/projects/xbox-linux/files/X-DSL/
+
+Microsoft Windows CE
+https://www.xbox-hq.com/html/article614.html
+
+Microsoft Windows 98 / XP
+
+ __  _____  _____  __ __   ___    _            ___                  _____         _
+ \ \/ / _ )/ _ \ \/ / \ \ / (_)__| |___ ___   / __|__ _ _ __  ___  |_   _| _ __ _(_)_ _  ___ _ _ ___
+  >  <| _ \ (_) >  <   \ V /| / _` / -_) _ \ | (_ / _` | '  \/ -_)   | || '_/ _` | | ' \/ -_) '_(_-<
+ /_/\_\___/\___/_/\_\   \_/ |_\__,_\___\___/  \___\__,_|_|_|_\___|   |_||_| \__,_|_|_||_\___|_| /__/
+
+
+2,000
+
+ __   ___    _            ___                   ___                  _       ___           _      _
+ \ \ / (_)__| |___ ___   / __|__ _ _ __  ___   / __|___ _ _  ___ ___| |___  | __|_ __ _  _| |__ _| |_ ___ _ _ ___
+  \ V /| / _` / -_) _ \ | (_ / _` | '  \/ -_) | (__/ _ \ ' \(_-</ _ \ / -_) | _|| '  \ || | / _` |  _/ _ \ '_(_-<
+   \_/ |_\__,_\___\___/  \___\__,_|_|_|_\___|  \___\___/_||_/__/\___/_\___| |___|_|_|_\_,_|_\__,_|\__\___/_| /__/
+
+
+0263 - Panasonic 3DO
+1200 - Commodore Amiga
+1795 - Amstrad CPC
+0569 - Apple II
+0200 - Apple Mac Plus
+
+Arcade
+2700 - Final Burn Legends
+7000 - MAMEoX
+
+0528 - Atari 2600
+0091 - Atari 7800
+0069 - Atari 800 - 5200
+0074 - Atari Lynx
+1749 - Atari ST
+0050 - CHIP-8
+0006 - Capcom - CPS3
+0023 - SEGA - Chihiro
+0129 - ColecoVision
+1301 - Commodore 64
+0041 - Commodore PET
+
+0034 - Daphne LaserDisc
+0125 - IntelliVision
+
+0100 - BlueMSX
+0099 - ElecByte M.U.G.E.N.
+0097 - NeoGeo CD
+0082 - NeoGeo Pocket
+0704 - Nintendo Entertainment System
+0022 - Nintendo VirtualBoy
+0721 - Nintendo Super Entertainment System
+1046 - Nintendo GameBoy
+1510 - Nintendo GameBoy Advance
+2031 - Nintendo DS
+0010 - Nintendo PokemonMini
+0296 - Nintendo 64
+0028 - Odyssey
+0024 - PCE-TG16
+
+0064 - Scumm
+0250 - ScummVM
+0360 - Sega Master System
+0364 - Sega GameGear SG-1000
+0713 - Sega Genesis
+1047 - Sega Saturn
+0250 - Sierra
+1300 - Sony Playstation 1
+1728 - Spectrum ZX
+0069 - Watara SuperVision
+0028 - Smith Engineering VectreX
+0332 - Commodore Vic-20
+
+0109 - WonderSwan
+0799 - X68000
+
+7000 - DOS-XBOX
+0001 - Bermuda Syndrome
+1728 - Sinclair ZX81
+
+0864 - Original XBOX Games - NTSC
+0024 - Original XBOX Games - Japan
+
+Total Games: 39,716
+Total Games: 41,747
+
+  ___      _   _                 _             _ _         _   _
+ | _ \_  _| |_| |_  ___ _ _     /_\  _ __ _ __| (_)__ __ _| |_(_)___ _ _  ___
+ |  _/ || |  _| ' \/ _ \ ' \   / _ \| '_ \ '_ \ | / _/ _` |  _| / _ \ ' \(_-<
+ |_|  \_, |\__|_||_\___/_||_| /_/ \_\ .__/ .__/_|_\__\__,_|\__|_\___/_||_/__/
+      |__/                          |_|  |_|
