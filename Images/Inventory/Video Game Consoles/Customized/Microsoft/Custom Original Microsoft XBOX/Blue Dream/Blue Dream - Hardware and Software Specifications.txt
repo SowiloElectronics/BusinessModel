@@ -48,9 +48,6 @@ Housing / Case / Chassis
 https://www.amazon.com/Xbox-Original-GhostCase-Kit-Crystal-Clear/dp/B007QUD5EA/ref=sr_1_1?dchild=1&keywords=original+xbox+ghost+case&qid=1621705311&s=videogames&sr=1-1
 https://www.amazon.com/Xbox-Original-GhostCase-LED-Kit-Blue/dp/B007QUG3P8/ref=sr_1_3?dchild=1&keywords=original+xbox+ghost+case&qid=1621705311&s=videogames&sr=1-3
 
-Wireless Local-Area-Network Module
-https://www.amazon.com/Microsoft-R86-00001-Wireless-G-Xbox-Adapter/dp/B0000C5FMJ/ref=as_li_ss_tl?keywords=xbox+mn-740&qid=1564943346&s=gateway&sr=8-10&linkCode=sl1&tag=icestrike256-20&linkId=833280f74dcb5dcd6fb5c02dc72ca2f2&language=en_US
-
     _                            _
    /_\  __ __ ___ ______ ___ _ _(_)___ ___
   / _ \/ _/ _/ -_|_-<_-</ _ \ '_| / -_|_-<
@@ -70,6 +67,9 @@ https://www.amazon.com/Cotchear-USB-Adapter-Cable-Xbox-Black/dp/B07FCFGG8Y/ref=s
 
 Wireless Keyboard & Mouse
 https://www.amazon.com/Microsoft-Wireless-Desktop-850-PY9-00001/dp/B014N53JVO/ref=sr_1_3?dchild=1&keywords=Microsoft+wireless+keyboard+and+mouse+combo&qid=1621724806&sr=8-3
+
+Wireless Local-Area-Network Module
+https://www.amazon.com/Microsoft-R86-00001-Wireless-G-Xbox-Adapter/dp/B0000C5FMJ/ref=as_li_ss_tl?keywords=xbox+mn-740&qid=1564943346&s=gateway&sr=8-10&linkCode=sl1&tag=icestrike256-20&linkId=833280f74dcb5dcd6fb5c02dc72ca2f2&language=en_US
 
   ___           _     ___          _    _                      _
  | _ ) ___  ___| |_  |   \ __ _ __| |_ | |__  ___  __ _ _ _ __| |
