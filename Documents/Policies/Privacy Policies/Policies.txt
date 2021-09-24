@@ -1,0 +1,13 @@
+    ____           _ __       ______        __                _
+  / __/__ _    __(_) /__    / __/ /__ ____/ /________  ___  (_)______
+ _\ \/ _ \ |/|/ / / / _ \  / _// / -_) __/ __/ __/ _ \/ _ \/ / __(_-<
+/___/\___/__,__/_/_/\___/ /___/_/\__/\__/\__/_/  \___/_//_/_/\__/___/
+ᛊ ᛋ
+
+* Privacy Polices
+
+// Payment Details and Your Privacy
+We do not store any of your payment details. Your payment details such as your Credit Card number and zip code or other information that is required to charge for a transaction is immediately destroyed after use. We aim to use only payment processors that do *NOT* store any of your information whatsoever. The transactions can be seen transmitted and destroyed to ensure complete security therefore no possible future data breaches will ever reveal your personal or business financial information.
+
+// Information We Log On Our Web Servers
+The information we log on our Web Servers is IP Address, Sessions, Cookies, PGP Keys and any other information you might provide to the registration fields and options if you register an account with us. This information is only stored to prevent abuse from potential automated systems. You have the option to immediately delete your account and all information attached to that account at any time after registration. We aim to keep your information private and secure. Only one account is allowed per client / customer. If you register an account with us it is only meant for communication and digital interaction for the purpose of servicing your current purchases, ordering new purchases and providing digital tutorials on how to use / operate your purchases. Most of the electronics we sell are heavily modified / customized.
